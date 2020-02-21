@@ -1,0 +1,25 @@
+#include("PayRoll.h")
+
+int main(){
+	PayRoll people[7];
+	people[0].PayRoll("Steve",17.3);
+	people[1].PayRoll("Bevan",3);
+	people[2].PayRoll("Jack",100);
+	people[3].PayRoll("Maynard",12.30);
+	people[4].PayRoll("Gary",11.11);
+	people[5].PayRoll("Daryl",44);
+	people[6].PayRoll("Anderson",19.55);
+	
+	for(int i = 0;i < 7;i++){
+	cout << "Enter the hours for " <<  people[i].getpName  << ". :  ";
+	cin >> people[i].setHours;
+	people[i].getPay;
+	people[i].print;	
+	}
+	
+	
+	
+
+return 0;
+}
+

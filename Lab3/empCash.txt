@@ -1,0 +1,56 @@
+------------------
+ Name : Dennis
+ Dennis gets an hourly pay of 2.9$
+ and also worked a total of 1 hours. 
+ Total Pay is : 2.9$
+------------------
+===================
+------------------
+ Name : Jack
+ Jack gets an hourly pay of 7.98$
+ and also worked a total of 17 hours. 
+ Total Pay is : 135.66$
+------------------
+===================
+------------------
+ Name : Bob
+ Bob gets an hourly pay of 9.99$
+ and also worked a total of 36 hours. 
+ Total Pay is : 359.64$
+------------------
+===================
+------------------
+ Name : Rodger
+ Rodger gets an hourly pay of 12.8$
+ and also worked a total of 22 hours. 
+ Total Pay is : 281.6$
+------------------
+===================
+------------------
+ Name : Grant
+ Grant gets an hourly pay of 16.45$
+ and also worked a total of 40 hours. 
+ Total Pay is : 658$
+------------------
+===================
+------------------
+ Name : Rubio
+ Rubio gets an hourly pay of 16.46$
+ and also worked a total of 45 hours. 
+ Total Pay is : 740.7$
+------------------
+===================
+------------------
+ Name : Lawrence
+ Lawrence gets an hourly pay of 20$
+ and also worked a total of 36 hours. 
+ Total Pay is : 720$
+------------------
+===================
+------------------
+ Name : Keith
+ Keith gets an hourly pay of 30$
+ and also worked a total of 5 hours. 
+ Total Pay is : 150$
+------------------
+===================

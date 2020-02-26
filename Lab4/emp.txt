@@ -1,0 +1,8 @@
+Rodger 12.8 22
+Lawrence 20 36
+Bob 9.99 36
+Jack 7.98 17
+Keith 30 5
+Dennis 2.9 1
+Rubio 16.46 45
+Grant 16.45 40

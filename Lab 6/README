@@ -1,0 +1,15 @@
+Robert Davis
+Cosc 220
+Lab 6
+
+1.For Bubble sort for insertion, bubble, and selection sort is 0(n^2). Which means that
+the worst case is that n the amount will have to do n squared amount of swaps. Its best
+case is that the list is already in order and has to do no swaps at all.Except Insertion sort which has a best case of 0(n)
+which makes it somewhat faster during partial sorted arrays.
+
+2.The timing scale is increased when adding more elements to the array.The timing is also
+effected exponentially by the size of the elements due to a larger amount of them.
+
+3. Unfinished
+
+4.Unfinished.
